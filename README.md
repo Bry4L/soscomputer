@@ -32,7 +32,16 @@ Canva User Manual
 1. Access the Canva user manual:
 	Go to Canva and sign in to your account.
 	Open the user manual template provided in the repository or use the shared link.
+
 Canva User Manual Link:
+
+Contributing
+Contributions are welcome! Please follow these guidelines when contributing to the project:
+
+Fork the repository and create a new branch for your feature or bug fix.
+Ensure your code follows the project's coding style and conventions.
+Submit a pull request with a clear description of your changes and why they are beneficial
+
 
 Credits
 Project Lead: Bryan Tan Wee Kang 
