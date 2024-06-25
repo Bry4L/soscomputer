@@ -20,13 +20,22 @@ Wix E-Commerce Website
 	Go to Wix.com and sign in to your account.
 	Create a new site based on the project files in the cloned repository.
 	Follow the instructions to import and customize the website.
+Link for our Wix E-commerce Website: https://bryantanwk02.wixsite.com/soscomputer
 
 Figma Mobile App Prototype
 1. Access the Figma prototype:
 	Go to Figma and sign in to your account.
 	Open the prototype file located in the repository or use the shared link.
+Link for Our mobile prototype:https://www.figma.com/proto/wkdEadaWO12VQUIRhyH8L3/LDCW?node-id=0-1&t=O4bqRuJozhvy1EGh-1
 
 Canva User Manual
 1. Access the Canva user manual:
 	Go to Canva and sign in to your account.
 	Open the user manual template provided in the repository or use the shared link.
+Canva User Manual Link:
+
+Credits
+Project Lead: Bryan Tan Wee Kang 
+Figma Designer: Tan Chong Meng
+Canva Designer: Chai Cheng Yee
+GitHub: Bryan Lee Jiun Xian
