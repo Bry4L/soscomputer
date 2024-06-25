@@ -1,3 +1,32 @@
+E-Commerce Website & Mobile App Prototype for SOS Computer
 
-#soscomputer
-This is to show that you could use git to makes changes into github
+SOS Computer is a retail store specializing in the sale of computers and computer accessories. Our mission is to provide cutting-edge technical merchandise and the highest level of customer satisfaction. Our inventory includes laptops, desktops, and accessories. Our main goal is to be your one-stop-shop for all of your computer needs and streamline purchasing through quality products and a user-friendly experience.
+
+This project includes a semi-functional e-commerce website built using Wix.com and a mobile app prototype created with Figma. Additionally, a user manual for the mobile app has been designed using Canva.
+
+Table of Contents
+Installation
+Usage
+Contributing
+Credits
+
+Installation
+Wix E-Commerce Website
+1. Clone the repository:
+	git clone https://github.com/your-username/wix-ecommerce-website.git
+2. Navigate into the project directory:
+	cd wix-ecommerce-website
+3. Open the project in Wix:
+	Go to Wix.com and sign in to your account.
+	Create a new site based on the project files in the cloned repository.
+	Follow the instructions to import and customize the website.
+
+Figma Mobile App Prototype
+1. Access the Figma prototype:
+	Go to Figma and sign in to your account.
+	Open the prototype file located in the repository or use the shared link.
+
+Canva User Manual
+1. Access the Canva user manual:
+	Go to Canva and sign in to your account.
+	Open the user manual template provided in the repository or use the shared link.
